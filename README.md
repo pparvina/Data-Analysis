@@ -6,5 +6,6 @@ This project is done for Udacity's Data Analyst Nanodegree program where I analy
 
 # Getting Started 
 To run the same analyses you would need: 
--SQL
--MS Excel
+
+SQL
+MS Excel
