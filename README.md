@@ -31,6 +31,6 @@ Once you have finished analyzing the data, create a report that shares the findi
 This project was based on movie ratings, and analyzed what movies were the most popular and its relation to its revenue and budget. 
 
 ## Results 
-This project provided data nalysis on movie ratings, and have underlined the key findings, and it's relevance on the data. 
+This project provided data analysis on movie ratings, and have underlined the key findings, and it's relevance on the data. 
 
 
