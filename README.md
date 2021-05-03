@@ -38,4 +38,8 @@ This project was based on movie ratings, and analyzed what movies were the most 
 ## Results 
 This project provided data analysis on movie ratings, and have underlined the key findings, and it's relevance on the data. 
 
+To sum up, our preliminary findings suggest that there is correlation between the popularity of the movies and their revenues, budget and the year of production. We found out that the most popular movies have received the highest revenues and had the highest budgets. However, we also saw that the most popular movie, Jurassic World not necessarily spend the higest budget. Also, the newer movies were the most popular movies with the relase year in 2014 and 2015. Overall, we looked at the correlation of popularity of the movie to its budget and revenue. Also, we explored what years have released the most popular movies.
+
+This project had limitations since I haven't done any statistical tests, we can not make definite statistical conclusions. This could be further explored using machine learning and A/B tests.
+
 
