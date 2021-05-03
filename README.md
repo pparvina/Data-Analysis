@@ -10,18 +10,18 @@ Specifically, I have focused my project around these questions:
 - Are older movies more popular than newer ones or vice versa? What year has released the most popular movie?
 - Do popular movies have recieved highest revenue? What movie have rieceived highest revenue?
 
-## To be able to replicate this project please follow the inructions below: 
 
-Step One - Choose Your Data Set
+## Step One - Choose Your Data Set
 
-Step Two - Get Organized
-Eventually you’ll want to submit your project (and share it with friends, family, and employers). Get organized before you begin. We recommend creating a single folder that will eventually contain:
+I have chosen the data set on movie ratings. The CSV file can be found in the repository.
 
-## The report communicating your findings
+## Step Two - Get Organized
+Import nessecary pacakges such as Python and following: 
 
-Any Python code you wrote as part of your analysis
-The data set you used (which you will not need to submit)
-You may wish to use a Jupyter notebook, in which case you can submit both the code you wrote and the report of your findings in the same document. Otherwise, you will need to submit your report and code separately. If you would like a notebook template to help organize your investigation, you can click here. Or there may be a page in the project here called Project Workspace: Complete and Submit Project, where you can do all your work and submit the project.
+- Numpy
+- Pandas 
+- Matplotlib
+- Seaborn 
 
 ## Step Three - Analyze Your Data
 Brainstorm some questions you could answer using the data set you chose, then start answering those questions. You can find some questions in the data set options to help you get started.
