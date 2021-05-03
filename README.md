@@ -3,7 +3,12 @@
 
 ## Introduction
 
-For the Udacity Nanodegree Programm, I was given a final project to conduct  data analysis and create a file to share that documents my findings. I started by taking a look at the dataset and brainstorming what questions I could answer using it. Then I used pandas and NumPy to answer the questions that I am most interested in, and create a report sharing the answers. 
+For the Udacity Nanodegree Programm, I was given a final project to conduct  data analysis and create a file that documents my findings. I started by taking a look at the dataset and brainstorming what questions I could answer using it. Then I used pandas and NumPy Python libraries to answer the research questions that I am most interested in, and create a report sharing the answers. 
+
+Specifically, I have focused my project around these questions:
+- What is the relationship of popularity of the movie and its budget? Do popular movies have higher budgets?
+- Are older movies more popular than newer ones or vice versa? What year has released the most popular movie?
+- Do popular movies have recieved highest revenue? What movie have rieceived highest revenue?
 
 ## To be able to replicate this project please follow the inructions below: 
 
