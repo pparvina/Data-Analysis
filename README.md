@@ -1,4 +1,4 @@
-# Data-Analysis-Movie_Ratings
+# Data-Analysis-Movie-Ratings
 
 
 ## Introduction
